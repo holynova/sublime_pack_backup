@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"AutoHotkey",
+		"SublimeLinter",
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
+}

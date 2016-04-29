@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML5",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}
