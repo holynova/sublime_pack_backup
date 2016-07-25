@@ -1,9 +1,10 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Darkside_light_selection.tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"AutoHotkey",
+		"MySQL Snippets",
 		"SublimeLinter",
 		"Vintage"
 	],

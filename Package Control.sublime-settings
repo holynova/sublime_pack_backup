@@ -2,28 +2,41 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"MySQL Snippets"
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
+		"AutoFileName",
 		"AutoHotkey",
+		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
 		"Colorsublime",
 		"Emmet",
 		"Emmet Css Snippets",
+		"Flask Completions",
+		"Git",
+		"Gutter Color",
 		"HTML5",
+		"Jinja2",
 		"JsFormat",
 		"LESS",
+		"MySQL Snippets",
 		"Package Control",
 		"SideBarEnhancements",
+		"smart less build",
 		"Sublimall",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",
 		"Theme - Flatland",
-		"Theme - Soda"
+		"Theme - Moka",
+		"Theme - Numix",
+		"Theme - Soda",
+		"Theme - SoDaReloaded"
 	]
 }
