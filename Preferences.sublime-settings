@@ -1,14 +1,16 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/Darkside_light_selection.tmTheme",
-	"font_size": 11,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"AutoHotkey",
-		"MySQL Snippets",
+		"JSLint",
+		"smart less build",
 		"SublimeLinter",
 		"Vintage"
 	],
-	"theme": "Flatland Dark.sublime-theme",
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"update_check": false,
 	"word_wrap": "auto"
 }
