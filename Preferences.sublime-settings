@@ -1,9 +1,10 @@
 {
 	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
-	"font_size": 13,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"AutoHotkey",
+		"ColorPicker",
 		"JSLint",
 		"smart less build",
 		"SublimeLinter",
@@ -12,5 +13,6 @@
 	"tabs_small": true,
 	"theme": "Afterglow-blue.sublime-theme",
 	"update_check": false,
-	"word_wrap": "auto"
+	"word_wrap": true,
+	"translate_tabs_to_spaces": true,
 }

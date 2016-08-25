@@ -1,0 +1,11 @@
+[
+	{
+		"keys": ["ctrl+shift+c"],
+		"command": "color_picker",
+		"context": [
+			{
+				"key": "color_highlighter.color_picker"
+			}
+		]
+	},
+]
