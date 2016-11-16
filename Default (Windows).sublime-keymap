@@ -1,11 +1,7 @@
-[
-	{
-		"keys": ["ctrl+shift+c"],
-		"command": "color_picker",
-		"context": [
-			{
-				"key": "color_highlighter.color_picker"
-			}
-		]
-	},
-]
+{
+    "keys": [";"],
+    "command": "run_macro_file",
+    "args": {
+        "file": "Packages/User/unAutoSemiColon.sublime-macro"
+    }
+}

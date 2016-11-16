@@ -5,14 +5,19 @@
 	[
 		"AutoHotkey",
 		"ColorPicker",
+		"Git",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"Jinja2",
+		"JS Snippets",
 		"JSLint",
-		"smart less build",
+		"LiveReload",
 		"SublimeLinter",
 		"Vintage"
 	],
 	"tabs_small": true,
 	"theme": "Afterglow-blue.sublime-theme",
-	"update_check": false,
-	"word_wrap": true,
 	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": true
 }
